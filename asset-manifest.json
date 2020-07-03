@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/email-link-generator-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/email-link-generator-react/static/js/main.10ac0e40.chunk.js",
+    "main.js.map": "/email-link-generator-react/static/js/main.10ac0e40.chunk.js.map",
+    "runtime-main.js": "/email-link-generator-react/static/js/runtime-main.f712ed4a.js",
+    "runtime-main.js.map": "/email-link-generator-react/static/js/runtime-main.f712ed4a.js.map",
+    "static/js/2.7c29728d.chunk.js": "/email-link-generator-react/static/js/2.7c29728d.chunk.js",
+    "static/js/2.7c29728d.chunk.js.map": "/email-link-generator-react/static/js/2.7c29728d.chunk.js.map",
+    "index.html": "/email-link-generator-react/index.html",
+    "precache-manifest.0cb2beb50e8d23e222cbfd505fe07d57.js": "/email-link-generator-react/precache-manifest.0cb2beb50e8d23e222cbfd505fe07d57.js",
+    "service-worker.js": "/email-link-generator-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/email-link-generator-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7c29728d.chunk.js.LICENSE.txt": "/email-link-generator-react/static/js/2.7c29728d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/email-link-generator-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f712ed4a.js",
+    "static/js/2.7c29728d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.10ac0e40.chunk.js"
+  ]
+}
